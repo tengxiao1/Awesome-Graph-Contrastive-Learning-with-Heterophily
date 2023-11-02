@@ -1,1 +1,1 @@
-# Awesome--Graph-Contrastive-Learning-for-Heterophily
+# Awesome-Graph Contrastive Learning-for-Heterophily
