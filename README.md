@@ -1,4 +1,4 @@
-# Awesome-Graph Contrastive Learning-with-Heterophily
+## Awesome-Graph Contrastive Learning-with-Heterophily
 
 This repository contains a list of the relevant resources on Graph Contrastive Learning or Graph Self-supervised Learning considering heterophily. We categorize the following papers based on their published years. We will try our best to continuously maintain this repository in weekly manner. If you found any error or any missed paper, please don't hesitate to open issues.
 
@@ -12,7 +12,7 @@ Graph Contrastive Learning and Graph Self-supervised Learning on unlabled hetero
 
 
 
-## Year 2023
+### Year 2023
 1. [NeurIPS 2023] **Simple and Asymmetric Graph Contrastive Learning without Augmentations** [[paper]](https://arxiv.org/abs/2310.18884)  [[code]](https://github.com/tengxiao1/GraphACL)
 2. [CIKM 2023] **MUSE: Multi-View Contrastive Learning for Heterophilic Graphs** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3583780.3614985) [[code]]( https://anonymous.4open.science/r/MUSE-BD4B/README.md)
 5. [AAAI 2023] **Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating** [[paper]](https://arxiv.org/abs/2211.14065) [[code]](https://github.com/yixinliu233/GREET)
@@ -22,7 +22,7 @@ Graph Contrastive Learning and Graph Self-supervised Learning on unlabled hetero
 9. [TKDE 2023] **Graph Representation Learning Beyond Node and Homophily** [[paper]](https://www.computer.org/csdl/journal/tk/5555/01/09695254/1AvqHmbeEtq)
 
 
-## Year 2022
+### Year 2022
 1. [NeurIPS 2022] **Decoupled Self-supervised Learning for Non-Homophilous Graphs** [[paper]](https://arxiv.org/abs/2206.03601) [[code]](https://openreview.net/attachment?id=Bwh6XmDEDe&name=supplementary_material)
 2. [Arxiv 2022] **Can Single-Pass Contrastive Learning Work for Both Homophilic and Heterophilic Graph?**  [[paper]](https://arxiv.org/pdf/2211.10890.pdf)
 3. [CIKM 2022] **Towards Self-supervised Learning on Graphs with Heterophily** [[paper]](https://arxiv.org/abs/2206.03601) [[code]](https://github.com/yifanQi98/HGRL)
