@@ -1,5 +1,8 @@
 ## Awesome-Graph Contrastive Learning-with-Heterophily
 
+ ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/tengxiao1/Awesome-Graph-Contrastive-Learning-with-Heterophily?color=red)  ![Forks](https://img.shields.io/github/forks/tengxiao1/Awesome-Graph-Contrastive-Learning-with-Heterophily?color=blue&label=Fork)
+
+ 
 This repository contains a list of the relevant resources on Graph Contrastive Learning and Graph Self-supervised Learning on graphs with heterophily. We categorize the following papers based on their published years. We will try our best to continuously maintain this repository  in real time. 
 
 If you found any error or any missed paper, please don't hesitate to open issues.
