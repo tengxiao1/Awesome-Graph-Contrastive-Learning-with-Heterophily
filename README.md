@@ -10,7 +10,7 @@ If you found any error or any missed paper, please don't hesitate to open issues
 **Graphs with Heterophily (Heterophilous Graphs or Non-Homophilous Graphs)**
 
 > Homophily is a key principle of many real-world graphs, whereby linked nodes often belong to the same class or have similar features (“birds of a feather flock together”). For example, friends are likely to have similar political beliefs, and papers tend to cite papers from the same research area. However, in the real world, there are also settings where “opposites attract”, leading to graphs with heterophily: linked nodes are likely from different classes or have dissimilar features. For instance, the majority of people tend to connect with people of the opposite gender in dating graphs, different amino acid types are more likely to connect in proteins, fraudsters are more likely to connect
-to accomplices than to other fraudsters in purchasing networks
+to accomplices than to other fraudsters in purchasing networks.
 > 
 >  --Zhu et al [NeurIPS 2020].
 
